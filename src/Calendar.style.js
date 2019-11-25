@@ -47,12 +47,10 @@ export default StyleSheet.create({
     textAlign: "center"
   },
   dateNumber: {
-    fontWeight: "bold",
     textAlign: "center"
   },
   weekendDateNumber: {
     color: "#A7A7A7",
-    fontWeight: "bold",
     textAlign: "center"
   },
   dot: {
